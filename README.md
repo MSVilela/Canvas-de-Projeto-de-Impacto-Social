@@ -26,7 +26,7 @@ vulnerabilidade digital (fraudes, desinformação), exclusão social e econômic
 
 ## 2. A Solução Proposta
 
-**Nome do projeto:** *Conectar para Crescer*  
+**Nome do projeto:** *TechParaTodos*  
 
 Uma plataforma digital leve e inclusiva, acessível via app ou navegador web, mesmo com internet lenta e em dispositivos antigos:
 
